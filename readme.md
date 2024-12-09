@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is a Python-based application that allows users to execute shell commands through a graphical user interface (GUI). The program accepts custom shell commands and displays the output in a user-friendly window. It supports basic shell commands, command history, and predefined shell commands for both Windows and Unix-like systems (Linux/macOS).
+This project is a Python-based application that allows users to execute shell commands through a graphical user interface (GUI). The program accepts custom shell commands and displays the output in a user-friendly window. It supports basic shell commands, command history, and predefined shell commands for both Windows and Unix-like systems (Linux).
 
 ### Key Features:
 - Execute custom shell commands.
@@ -20,7 +20,7 @@ This project is a Python-based application that allows users to execute shell co
 - **subprocess**: For handling system commands and capturing output.
 
 ## Requirements
-- Python 3.x
+- Python 
 - Python libraries:
   - pyautogui (to be installed using pip)
   - subprocess (built-in)
